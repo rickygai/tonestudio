@@ -10,5 +10,5 @@ Welcome to the operating guidelines for the Tone Studio software.
 - publish your own created tone melody files in C/C++ file format at royalty free.
 <br><br/>
 
-# Tone Studio coming to Windows Store soon...stay tuned.
+Tone Studio coming to Windows Store soon ...stay tuned.
 <br><br/>
