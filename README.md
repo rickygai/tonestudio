@@ -1,4 +1,4 @@
-# tonestudio
+# Tone Studio
 A mono tone audio editing software for Microsoft Windows.
 <br><br/>
 
