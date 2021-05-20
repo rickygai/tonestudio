@@ -6,7 +6,9 @@ Welcome to the operating guidelines for the Tone Studio software.
 
 # What is Tone Studio software ?
 - to compose own mono tone melody.
+
 - edit, save, playback and output composed tone melody to C/C++ file format ( with Arduino const PROGMEM option as well ).
+
 - publish your own created tone melody files in C/C++ file format at royalty free.
 <br><br/>
 
