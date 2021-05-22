@@ -2,6 +2,8 @@
 **A mono tone audio editing software for Microsoft Windows.**
 <br><br/>
 
+![Tone Studio](https://github.com/rickygai/images/tonestudio.png?raw=true)
+
 # What is Tone Studio software ?
 - To compose own mono tone melody.
 
