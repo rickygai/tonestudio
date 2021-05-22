@@ -14,19 +14,7 @@
 
 - Arduino C/C++ sketch compatible, check out the demo video below:
 
-<div class="full-vid">
-    <video id="vid1" class="video-js vjs-default-skin vjs-big-play-centered"
-        controls
-        width="100%"
-        height="100%"
-        data-setup='{ 
-            "techOrder": ["youtube"],
-            "aspectRatio":"16:9", "fluid": true,
-            "sources": [{ "type": "video/youtube", "src": "https://user-images.githubusercontent.com/15626855/119219275-3e5f3180-bb17-11eb-868d-94540c1305c7.mp4
-"}]
-        }'
-      ></video>
-</div>
+https://user-images.githubusercontent.com/15626855/119219275-3e5f3180-bb17-11eb-868d-94540c1305c7.mp4
   
 Tone Studio coming to Windows Store soon, stay tuned.
 <br><br/>
