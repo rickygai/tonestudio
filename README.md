@@ -10,11 +10,12 @@
 
 - Edit, save, playback and output composed tone melody to C/C++ header file format.
 
+- Publish your composed tone melody in other projects at royalty free.
+
 - Arduino C/C++ sketch compatible, check out demo video below:
 
 https://user-images.githubusercontent.com/15626855/119219275-3e5f3180-bb17-11eb-868d-94540c1305c7.mp4
 
-- Publish your composed tone melody in other projects at royalty free.
 <br><br/>
 
 Tone Studio coming to Windows Store soon ...stay tuned.
