@@ -14,11 +14,7 @@
 
 - Arduino C/C++ sketch compatible, check out the demo video below:
 
-video_stream = VideoStream.from_url( 'https://user-images.githubusercontent.com/15626855/119219275-3e5f3180-bb17-11eb-868d-94540c1305c7.mp4
-' )
-video_stream.video.width = 100
-video_stream.video.height = 100
-video_stream.video
+https://user-images.githubusercontent.com/15626855/119219275-3e5f3180-bb17-11eb-868d-94540c1305c7.mp4
 
 Tone Studio coming to Windows Store soon, stay tuned.
 <br><br/>
