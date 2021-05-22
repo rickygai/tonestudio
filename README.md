@@ -14,7 +14,7 @@
 
 - Arduino C/C++ sketch compatible, check out the demo video below:
 
-https://user-images.githubusercontent.com/15626855/119219275-3e5f3180-bb17-11eb-868d-94540c1305c7.mp4
-
+![](https://github.com/rickygai/tonestudio/blob/main/images/tone_demo.png](https://user-images.githubusercontent.com/15626855/119219275-3e5f3180-bb17-11eb-868d-94540c1305c7.mp4)
+  
 Tone Studio coming to Windows Store soon, stay tuned.
 <br><br/>
