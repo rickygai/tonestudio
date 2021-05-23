@@ -16,5 +16,5 @@
 
 https://user-images.githubusercontent.com/15626855/119219275-3e5f3180-bb17-11eb-868d-94540c1305c7.mp4
 
-<h1><blink>Tone Studio is coming to Windows Store soon!</blink></h1>
+<img src="https://github.com/rickygai/tonestudio/blob/main/images/Coming_to_Microsoft_Store.gif" width=100% height=100%>
 <br><br/>
