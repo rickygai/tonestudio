@@ -8,7 +8,7 @@
 
 - 97 notes of ASPN American Standard Pitch Notation.
 
-- Edit, save, playback and output composed tone melody to C/C++ header file format.
+- Edit, save, playback and output composed tone melody to C/C++ header file unicode format.
 
 - Publish your composed tone melody in other projects at royalty free.
 
