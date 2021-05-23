@@ -6,4 +6,4 @@
 
 - Run Tone Studio software and follow this steps below:
 
-<img src="https://github.com/rickygai/tonestudio/blob/main/images/ToneStudio_HowToLoadMelodyFile.png" width=50% height=50%>
+<img src="https://github.com/rickygai/tonestudio/blob/main/images/ToneStudio_HowToLoadMelodyFile.png" width=80% height=80%>
