@@ -16,5 +16,5 @@
 
 https://user-images.githubusercontent.com/15626855/119219275-3e5f3180-bb17-11eb-868d-94540c1305c7.mp4
 
-<img src="https://github.com/rickygai/tonestudio/blob/main/images/coming_soon_to_microsoft_store.gif">
+<img src="https://github.com/rickygai/tonestudio/blob/main/images/coming_soon_to_ms_store.gif">
 <br><br/>
