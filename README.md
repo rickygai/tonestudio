@@ -16,7 +16,15 @@
 
 https://user-images.githubusercontent.com/15626855/119219275-3e5f3180-bb17-11eb-868d-94540c1305c7.mp4
 
-<blink>
-Tone Studio is coming to Windows Store soon!
-</blink>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=utf-8 />
+<title>JS Bin</title>
+</head>
+<body>
+  <h1><blink>Tone Studio is coming to Windows Store soon!</blink></h1>
+</body>
+</html>
+
 <br><br/>
