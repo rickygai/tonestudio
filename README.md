@@ -16,5 +16,23 @@
 
 https://user-images.githubusercontent.com/15626855/119219275-3e5f3180-bb17-11eb-868d-94540c1305c7.mp4
 
+<style>
+       .blink {
+                  animation: blink-animation 1s steps(5, start) infinite;
+                  -webkit-animation: blink-animation 1s steps(5, start) infinite;
+                }
+                @keyframes blink-animation {
+                  to {
+                    visibility: hidden;
+                  }
+                }
+                @-webkit-keyframes blink-animation {
+                  to {
+                    visibility: hidden;
+                  }
+                }
+   </style>
+   
+<span class="blink">Tone Studio is coming to Windows Store soon!</span>
 <h1><blink>Tone Studio is coming to Windows Store soon!</blink></h1>
 <br><br/>
