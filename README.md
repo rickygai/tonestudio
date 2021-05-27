@@ -13,7 +13,7 @@
 
 - Publish your composed tone melody in other projects at royalty free.
 
-- Auto remember application settings, position, window form size and collection folder set.
+- Auto remember application settings, position, form size and collection folder set.
 
 - Arduino C/C++ sketch compatible, check out the demo video below:
 
