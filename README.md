@@ -11,7 +11,7 @@
 
 - Edit, save, playback and output composed tone melody to C/C++ header file unicode format ( NOTE: use Notepad to save as ANSI format for Arduino ).
 
-- Publish own composed tone melody in your projects at royalty free.
+- Publish own composed tone melody at royalty free.
 
 - Auto remember application settings, position, form size and collection folder set.
 
