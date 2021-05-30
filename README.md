@@ -1,7 +1,7 @@
 # Tone Studio
 **A mono tone audio editing software for Microsoft Windows.**
 
-<img src="https://github.com/rickygai/tonestudio/blob/main/images/ToneStudio.png" width=50% height=50%>
+<img src="https://github.com/rickygai/tonestudio/blob/main/images/tonestudio_2.png" width=50% height=50%>
 <img src="https://github.com/rickygai/tonestudio/blob/main/images/cstms.gif" width=50% height=50%>
 
 # What is Tone Studio software ?
