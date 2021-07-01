@@ -3,7 +3,7 @@
 
 <img src="https://github.com/rickygai/tonestudio/blob/main/images/tonestudio_2.png" width=70% height=70%>
 
-<img src="https://github.com/rickygai/tonestudio/blob/main/images/tonestudio_2.png" width=70% height=70%>
+<img src="https://github.com/rickygai/tonestudio/blob/main/images/cstms.png" width=70% height=70%>
 
 # What is Tone Studio software ?
 - To compose own mono tone melody.
