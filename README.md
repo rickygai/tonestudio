@@ -3,7 +3,7 @@
 
 <img src="https://github.com/rickygai/tonestudio/blob/main/images/tonestudio_2.png" width=70% height=70%>
 
-<a href="https://www.microsoft.com/en-my/p/tone-studio/9p9zjx03jgvs?activetab=pivot:overviewtab" target="_blank">Tone Studio software available now at Microsoft Store.</a>
+<img src="https://github.com/rickygai/tonestudio/blob/main/images/tonestudio_2.png" width=70% height=70%>
 
 # What is Tone Studio software ?
 - To compose own mono tone melody.
